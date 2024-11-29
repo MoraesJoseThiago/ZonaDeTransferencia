@@ -1,2 +1,1 @@
-# Registra um DNS para um servidor desativado
-Quando o endereço estiver disponivel para registro teremos uma condição de vun
+Uma falha que podemos testar se encontrar a porta 53/tcp aberta em algum host do cliente
